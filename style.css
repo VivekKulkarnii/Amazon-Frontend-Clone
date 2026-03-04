@@ -311,6 +311,11 @@ span {
     margin-top: 5px;
 }
 
+.foot-panel1 a {
+    color: white;
+    text-decoration: none;
+}
+
 /* FOOTER-PANEL-2 */
 .foot-panel2 {
     background-color: #232f3e;
